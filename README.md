@@ -3,9 +3,11 @@
 **Data-Driven Insights on Hotel Pricing, Quality, and Guest Satisfaction**
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![pandas](https://img.shields.io/badge/pandas-numpy-scipy-green.svg)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](#)
-[![Kaggle](https://img.shields.io/badge/Data-Kaggle-lightblue.svg)](#)
+[![Data](https://img.shields.io/badge/Data-5.5K%20hotels-lightblue.svg)](#-data-source)
 [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](#)
+[![License](https://img.shields.io/badge/License-CC0-lightgrey.svg)](#-data-source)
 
 ---
 
